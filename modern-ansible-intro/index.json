@@ -6,7 +6,7 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Getting Ansible version",
         "text": "step1.md"
       },
       {
@@ -43,6 +43,6 @@
     "hideHiddenFiles": true
   },
   "backend": {
-    "imageid": "ansible-centos"
+    "imageid": "ubuntu:2004"
   }
 }
