@@ -7,7 +7,8 @@
     "steps": [
       {
         "title": "Getting Ansible version",
-        "text": "step1.md"
+        "text": "step1.md",
+        "background": "setup.sh"
       },
       {
         "title": "First Ansible Playbook",
@@ -39,7 +40,7 @@
   },
   "environment": {
     "uilayout": "editor-terminal",
-    "uieditorpath": "/root/example",
+    "uieditorpath": "/root/sandbox",
     "hideHiddenFiles": true
   },
   "backend": {
